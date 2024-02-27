@@ -13,7 +13,6 @@ QuickLogger is a C# application designed to hooks clipboard, keys pressed, captu
 1. Open the project in Visual Studio.
 2. Set settings in Form1.cs
 3. Build and run the project.
-4. OPTIONAL: Build as one-file to only have one file instead of entire project (with DLL files)
 
 ## All Settings
 * **DebugMode** - If false, the window will be hidden and the program will run in the background.
