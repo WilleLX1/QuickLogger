@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1MddNj1Q8yIUe5H5WC4yTn5Nyx/CC07UpK1VztB6hQVZQJ2XXiZ49eu87TbvdmKiYgB/CtEnOuMrZYgBnfnIcA==",
+  "success": true,
+  "projectFilePath": "C:\\Github-Stuff\\C#\\QuickLogger\\QuickLogger\\QuickLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\william.danielsson\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\william.danielsson\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\william.danielsson\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.1\\microsoft.netcore.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\william.danielsson\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\william.danielsson\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.1\\microsoft.aspnetcore.app.runtime.win-x86.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

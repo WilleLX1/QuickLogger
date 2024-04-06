@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P2lx/DHQTgkSgLXq5PWKYNS9bLUG+wQKr+MtZEoz0V5SmVFm2tsj3f9SkXYgXuTvYjMTZFhhrs7+5jhS4hMmJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Github-Stuff\\C#\\QuickLogger\\QuickLogger\\QuickLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\william.danielsson\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
